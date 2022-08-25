@@ -41,8 +41,6 @@ int main(){
         arr[i].calc();
     }
     cout<<endl<<"The details of employees are: "<<endl;
-    cout<<"Id\tName\tAge\tBasic Sal\tGross Sal"<<endl;
-
     for(int i=0; i<n; i++){
         arr[i].display();
     }
