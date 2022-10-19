@@ -33,7 +33,7 @@ class Complex{
     void gettingData()
     {
         cout<<"Addition - "<<realadd<<" + i"<<imaginaryadd<<endl;
-        cout<<"Subtraction - "<<realsubtract<<" + i"<<imaginarysubtract<<endl;
+        cout<<"S  ubtraction - "<<realsubtract<<" + i"<<imaginarysubtract<<endl;
         cout<<"Product - "<<realproduct<<" + i"<<imaginaryproduct<<endl;
     }
 };
